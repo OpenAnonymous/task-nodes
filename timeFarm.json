@@ -1,107 +1,124 @@
 {
-    "tasks": [
-      {
-        "type": "joinchannel",
-        "title": "Join Rating Community",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "nocheck",
-        "title": "Subscribe to Time Farm on YouTube",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "watchvideo",
-        "title": "Watch video and earn",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "nocheck",
-        "title": "Play Frog Farm and farm Croaks!",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "joinchannel",
-        "title": "Join Frog Farm",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "joinchannel",
-        "title": "Join the Discord Server",
-        "content": "Subscribe to our CEO channel",
-        "url": ""
-      },
-      {
-        "type": "nocheck",
-        "title": "Connect TON wallet",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "nocheck",
-        "title": "Bits Airdrop $200k 31 Oct",
-        "content": "You've completed all the tasks and earned TON!",
-        "url": ""
-      },
-      {
-        "type": "nocheck",
-        "title": "Check your TON balance",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "nocheck",
-        "title": "Play IceFarm",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "nocheck",
-        "title": "Play 1win token",
-        "content": "",
-        "url": ""
-      },
-      {
-        "type": "subcribe",
-        "title": "Subscribe to Whale Channel",
-        "content": "",
-        "url": "https://web.telegram.org/k/#@WhAlE_ChAnEl"
-      },
-      {
-        "type": "subcribe",
-        "title": "Subscribe to Learn to Earn channel",
-        "content": "",
-        "url": "https://web.telegram.org/k/#@learn2earnings"
-      },
-      {
-        "type": "subcribe",
-        "title": "Subscribe to Crypto Meme channel",
-        "content": "",
-        "url": "https://web.telegram.org/k/#@CryptoMemeFoundation"
-      },
-      {
-        "type": "subcribe",
-        "title": "Subscribe to Crypto Games channel",
-        "content": "",
-        "url": "https://web.telegram.org/k/#@NewsPlayToEarn"
-      },
-      {
-        "type": "subcribe",
-        "title": "Subscribe to TimeFarm channel",
-        "content": "",
-        "url": "https://web.telegram.org/k/#@TimeFarmChannel"
-      },
-      {
-        "type": "nocheck",
-        "title": "Subscribe to TimeFarm chat",
-        "content": "",
-        "url": ""
-      }
-    ]
-  }
-  
+  "tasks": [
+    {
+      "type": "watchvideo",
+      "title": "Watch video and earn",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "watchvideo",
+      "title": "Watch video and earn",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Play TSUBASA RIVALS",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Play Rating",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Follow our CEO on X",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "subcribe",
+      "title": "Subscribe to our CEO channel",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "wallet",
+      "title": "Connect TON wallet",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to trending apps",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Play Trump Farm",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Play 1win token",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Watch the video on our channel",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to Whale Channel",
+      "content": "",
+      "url": "https://t.me/WhAlE_ChAnEl"
+    },
+    {
+      "type": "nocheck",
+      "title": "Follow Time Farm on X",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to Learn to Earn channel",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to Crypto Meme channel",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to Crypto Games channel",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to TimeFarm channel",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to TimeFarm chat",
+      "content": "",
+      "url": ""
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to trending apps",
+      "content": "",
+      "url": "https://t.me/trendingapps"
+    },
+    {
+      "type": "nocheck",
+      "title": "Subscribe to partner - trending apps",
+      "content": "",
+      "url": "https://t.me/trendingapps"
+    }
+  ]
+}

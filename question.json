@@ -1,12 +1,4 @@
 {
-    "question": [
-        {
-            "title" : "When did Cardano launch its smart contract functionality with the Alonzo upgrade?",
-            "answers" : "12/09/2021"
-        },
-        {
-            "title": "When did Bitcoin Cash (BCH) split from Bitcoin SV (BSV)?",
-            "answers": "15/11/2018"
-        }
-    ] 
+    "title": "When did Cardano launch its smart contract functionality with the Alonzo upgrade?",
+    "answers": "12/09/2021"
 }
